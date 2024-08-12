@@ -10,11 +10,10 @@
     justify-content: center;
     margin-top: 200px;
 }
-.login img{
-    position: absolute;
-    z-index: -1;
-    width: 100%;
-    height: 100%;
+body{
+    background-image: url("backgrnd.jpg");
+    background-size: cover;
+   
 }
 .page{
     background-color: rgba(197, 197, 197, 0.6) ;
